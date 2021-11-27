@@ -1,0 +1,14 @@
+{
+  "colors": {
+    "dark": "#210129",
+    "light": "#e4e7e9",
+    "warning": "#faba0a",
+    "danger": "#fc0d0d",
+    "success": "#00bf0a",
+    "primary": "#00ffa6",
+    "secondary": "#ff008c",
+    "white": "#ffffff",
+    "black": "#000000",
+    "transparent": "rgba(255,255,255,0)"
+  }
+}
